@@ -1,0 +1,8 @@
+[submodule "data-classification-web"]
+	path = data-classification-web
+	url = git@github.com:abuabdirohman4/data-classification-web.git
+	branch = main
+[submodule "data-jupyter"]
+	path = data-jupyter
+	url = git@github.com:abuabdirohman4/data-jupyter.git
+	branch = main
